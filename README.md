@@ -1,1 +1,1 @@
-# alura-python-data-science
+# python-data-science
